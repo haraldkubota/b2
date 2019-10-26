@@ -1,0 +1,17 @@
+{
+  "name": "b2-testing",
+  "version": "1.0.0",
+  "description": "Testing Backblaze's B2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "b2"
+  ],
+  "author": "Harald Kubota",
+  "license": "MIT",
+  "dependencies": {
+    "backblaze-b2": "^1.5.0"
+  }
+}

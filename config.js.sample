@@ -1,0 +1,10 @@
+// config variables with sample values
+// Check out the docs at https://www.backblaze.com/b2/docs/calling.html
+// for values
+
+exports.applicationKeyId = 'xxxxxxxxxxxxxxxxxxxxxxxxx'; // or accountId: 'accountId'
+exports.applicationKey = 'Kxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'; // or masterApplicationKey
+exports.bucketId = 'xxxxxxxxxxxxxxxxxxxxxxxx';
+exports.downloadPrefix = 'test/';
+exports.validDurationInSeconds = 7*24*60*60;
+
