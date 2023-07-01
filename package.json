@@ -12,6 +12,6 @@
   "author": "Harald Kubota",
   "license": "MIT",
   "dependencies": {
-    "backblaze-b2": "^1.5.0"
+    "backblaze-b2": "^1.7.0"
   }
 }
